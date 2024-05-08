@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @IvanKravchenko91
-- 👀 I’m interested in  системный анализ
+- 👀 I’m interested in system analysis
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
